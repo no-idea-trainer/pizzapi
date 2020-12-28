@@ -2,11 +2,11 @@
 
 Congratulations! Your software factory was selected to build the brand new
 _pizzapi_, a Pizza API service for developers. We expect a professional work in
-every aspect; from code to production delivery and monitoring.
+every aspect; from coding to production delivery and monitoring.
 
 ## Requirements
 
-Our client, The Pizza Planet Guy, had a increasing amount of clients since
+Our client, [The Pizza Planet Guy][1], had a increasing amount of clients since
 lockdown; it seems that, luckily, there is a lot of people working from home.
 Strage as it is, a lot of them are programmers, and "how better than hook them
 up to the business with funny Internet things?" as the owner told us, and then
@@ -25,3 +25,5 @@ fit to his needs and collected the following requirements:
 * The API service needs to respond in less than 500 ms.
 * The service only understands JSON content types.
 * Traffic monitoring is required to understand future behaviors.
+
+[1]: https://www.youtube.com/watch?v=2hFHGJOaYuc
