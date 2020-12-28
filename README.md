@@ -8,10 +8,10 @@ every aspect; from coding to production delivery and monitoring.
 
 Our client, [The Pizza Planet Guy][1], had a increasing amount of clients since
 lockdown; it seems that, luckily, there is a lot of people working from home.
-Strage as it is, a lot of them are programmers, and "how better than hook them
-up to the business with funny Internet things?" as the owner told us, and then
-ask us to build something to help him. We resolved that an API would be a good
-fit to his needs and collected the following requirements:
+Strange as it is, a lot of them are programmers: _"how better than hook them up
+to the business with funny Internet things?"_ the owner told us, and then asks
+us to build something to help him. We resolved that an API would be a good fit
+to his needs and collected the following requirements:
 
 * A public API service, able to identify the client, collect the pizza's type
   and size and schedule the delivery.
@@ -25,5 +25,6 @@ fit to his needs and collected the following requirements:
 * The API service needs to respond in less than 500 ms.
 * The service only understands JSON content types.
 * Traffic monitoring is required to understand future behaviors.
+* The service needs to be RESTful.
 
 [1]: https://www.youtube.com/watch?v=2hFHGJOaYuc
